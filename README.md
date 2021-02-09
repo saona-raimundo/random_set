@@ -2,7 +2,7 @@
 Sampling from random set distributions 
 
 ## Related crates
-- [poisson](https://crates.io/crates/poisson)
+- [poisson](https://crates.io/crates/poisson) - Generating n-dimensional poisson-disk distributions.
 
 ## Resources
 ### Videos
